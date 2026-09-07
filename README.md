@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aditya Kumar 👋</h1> <p align="center"> <a href="https://github.com/aadiverma4206"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3EC1D3&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+%26+Mobile+App+Developer;Flutter+%7C+Node.js+%7C+React+%7C+Angular;Building+secure+REST+APIs+%26+role-based+systems" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Node.js%20%7C%20React%20%7C%20Angular-1C2130?style=for-the-badge" /> </p>
+<h1 align="center">Hi there, I'm Aditya Kumar 👋</h1> <p align="center"> <a href="https://github.com/aadiverma4206"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3EC1D3&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+%26+Mobile+App+Developer;Flutter+%7C+Node.js+%7C+React+%7C+Angular%7C+MySQL;" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Node.js%20%7C%20React%20%7C%20Angular-1C2130?style=for-the-badge" /> </p>
 
 ---
 
