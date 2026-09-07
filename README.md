@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 M.Sc. (IT), PRSU (SOS CS & IT) — 2026, 83.59%
-- 🎓 B.Sc. (IT), PRSU (GNSCR) — 2024, 74.2%
+- 🎓 B.Sc. (IT), PRSU (GNSCR) — 2024, 74.22%
 - 💼 Built government & private-sector apps — Flutter, React.js, Angular, Node.js, Express.js, MySQL
 - 🔐 Experienced with secure REST APIs, JWT auth, role-based systems and scalable database design
 - 📍 Raipur, Chhattisgarh, India
@@ -62,40 +62,6 @@
 
 ---
 
-### 🚀 Experience
-
-**Full Stack Developer — Botivate Services LLP** *(2026, Live on PlayStore)*
-Zold Gold App — Flutter, TypeScript, Prisma, Supabase, Socket-based OTP auth, role-based access, payment integration, location map.
-
-**Web Developer — NIC Chhattisgarh** *(2026)*
-Database Comment Management System — Ionic, Angular, Node.js, MySQL.
-
-**Mobile App Developer — National Informatics Centre (NIC), Raipur** *(2026)*
-Drug Tracking System for the Food & Drugs Administration — Flutter, Node.js, Express.js, MySQL; secure JWT-based REST APIs for inventory, stock, invoice, sales and inspection management.
-
----
-
-### 📜 Certifications
-
-- NIC Chhattisgarh Internship (6 Months)
-- Adyant Softech Internship (3 Months)
-- Flutter Development — Tutedude
-- Data Analytics — CodeWithHarry
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadiverma4206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiverma4206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadiverma4206&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
 
 ### 📫 How to Reach Me
 
