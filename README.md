@@ -1,43 +1,106 @@
-# Aditya Kumar
-**Full Stack & Mobile Application Developer**  
-Raipur, Chhattisgarh, India | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/aadiverma4206)
+<h1 align="center">Hi there, I'm Aditya Kumar 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/aadiverma4206">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EC1D3&center=true&vCenter=true&width=520&lines=Full+Stack+%26+Mobile+App+Developer;Flutter+%7C+Node.js+%7C+React+%7C+Angular;Building+secure+REST+APIs+%26+role-based+systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Node.js%20%7C%20React%20%7C%20Angular-1C2130?style=for-the-badge" />
+</p>
 
 ---
 
-### 💻 Technical Skills
+### 🧑‍💻 About Me
 
-* **Frontend & Mobile:** Flutter, Dart, React.js, Angular, Ionic, TypeScript, JavaScript, Tailwind CSS
-* **Backend:** Node.js, Express.js, .NET Core MVC, Java, RESTful APIs, JWT, Swagger
-* **Database & Cloud:** MySQL, MariaDB, MongoDB, Firebase, Supabase, Prisma, Redis
-* **Tools & Concepts:** Git, GitHub, Postman, Docker, Railway, Render, OOP, Data Structures & Algorithms, Agile/Scrum
-
----
-
-### 🛠️ Professional Experience
-
-#### **Full Stack Developer | Botivate Services LLP** *(2026)*
-* Developed **Zold Gold App** (Live on Google Play Store) using **Flutter, TypeScript, Prisma, Supabase, and Socket.io**.
-* Implemented OTP authentication, role-based access control, Google Maps location integration, and payment gateways.
-
-#### **Full Stack Mobile App Developer | National Informatics Centre (NIC), Raipur** *(2026)*
-* Built **Drug Tracking System** for Food & Drugs Administration using **Flutter, Node.js, Express.js, and MySQL**.
-* Designed secure JWT-authenticated REST APIs for inventory, stock, sales, and inspection management; deployed via Railway & Render.
-
-#### **Web Developer | NIC Chhattisgarh** *(2026)*
-* Developed **Database Comment Management System** using **Ionic, Angular, Node.js, and MySQL**.
+- 🎓 M.Sc. (IT), PRSU (SOS CS & IT) — 2026, 83.59%
+- 🎓 B.Sc. (IT), PRSU (GNSCR) — 2024, 74.2%
+- 💼 Built government & private-sector apps — Flutter, React.js, Angular, Node.js, Express.js, MySQL
+- 🔐 Experienced with secure REST APIs, JWT auth, role-based systems and scalable database design
+- 📍 Raipur, Chhattisgarh, India
 
 ---
 
-### 🎓 Education
+### 💻 Tech Stack & Tools
 
-* **M.Sc. in Information Technology** | PRSU (SOS CS & IT) — **83.59%** *(2026)*
-* **B.Sc. in Information Technology** | PRSU (GNSCR) — **74.20%** *(2024)*
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Concepts**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Jira](https://img.shields.io/badge/Agile_%2F_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 📜 Certifications & Internships
+### 🚀 Experience
 
-* **NIC Chhattisgarh Internship** (6 Months)
-* **Adyant Softech Internship** (3 Months)
-* **Flutter Development Certification** (Tutedude)
-* **Data Analytics Certification** (CodeWithHarry)
+**Full Stack Developer — Botivate Services LLP** *(2026, Live on PlayStore)*
+Zold Gold App — Flutter, TypeScript, Prisma, Supabase, Socket-based OTP auth, role-based access, payment integration, location map.
+
+**Web Developer — NIC Chhattisgarh** *(2026)*
+Database Comment Management System — Ionic, Angular, Node.js, MySQL.
+
+**Mobile App Developer — National Informatics Centre (NIC), Raipur** *(2026)*
+Drug Tracking System for the Food & Drugs Administration — Flutter, Node.js, Express.js, MySQL; secure JWT-based REST APIs for inventory, stock, invoice, sales and inspection management.
+
+---
+
+### 📜 Certifications
+
+- NIC Chhattisgarh Internship (6 Months)
+- Adyant Softech Internship (3 Months)
+- Flutter Development — Tutedude
+- Data Analytics — CodeWithHarry
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadiverma4206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiverma4206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadiverma4206&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1C2130?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/aadiverma4206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
