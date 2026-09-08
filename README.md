@@ -4,8 +4,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 M.Sc. (IT), PRSU (SOS CS & IT) — 2026, 83.59%
-- 🎓 B.Sc. (IT), PRSU (GNSCR) — 2024, 74.22%
+- 🎓 M.Sc. (IT), PRSU (SOS CS & IT) — 2026, 83.59%🏅
+- 🎓 B.Sc. (IT), PRSU (GNSCR) — 2024, 74.22%🏅
 - 💼 Built government & private-sector apps — Flutter, React.js, Angular, Node.js, Express.js, MySQL
 - 🔐 Experienced with secure REST APIs, JWT auth, role-based systems and scalable database design
 - 📍 Raipur, Chhattisgarh, India
